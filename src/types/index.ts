@@ -13,6 +13,7 @@ export interface ParlourInfo {
     instagram?: string
     facebook?: string
     google?: string
+    whatsapp?: string
   }
   heroImage: string
   logo: string
